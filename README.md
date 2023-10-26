@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Downloads](https://pepy.tech/badge/keywordextractorllm)](https://pepy.tech/project/keywordextractorllm)
+<!-- [![Downloads](https://pepy.tech/badge/keywordextractorllm)](https://pepy.tech/project/keywordextractorllm) -->
 <img alt="python" src="https://img.shields.io/badge/python-%3E%3D3.6-blue?logo=python">
 <img alt="torch" src="https://img.shields.io/badge/torch-%3E%3D2.3.0-orange?logo=torch">
 <a href="https://pypi.org/project/keywordextractorllm/">
