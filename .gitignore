@@ -1,0 +1,8 @@
+precommit.sh
+**.egg-info
+.eggs
+build
+dist
+**.pytest_cache
+**__pycache__
+sample.py
