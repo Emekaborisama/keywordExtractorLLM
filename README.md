@@ -19,7 +19,7 @@
 </h2>
 
 <p align="center">
-keyword_extract_LLM is a Python library designed to simplify the process of keyword extraction from a given text using pretrain LLM(large language model) via Huggingface, specifically tailored for the Hugging Face Transformers ecosystem. With the library, you can effortlessly extract relevant keywords from text, making it an invaluable tool for tasks like content analysis, and information retrieval.
+LLM keyword extractor is a Python library designed to simplify the process of keyword extraction from a given text using pretrain LLM(large language model) via Huggingface, specifically tailored for the Hugging Face Transformers ecosystem. With the library, you can effortlessly extract relevant keywords from text, making it an invaluable tool for tasks like content analysis, and information retrieval.
 </p>
 
 
