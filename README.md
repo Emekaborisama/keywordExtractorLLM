@@ -1,6 +1,28 @@
-# keywordExtractorLLM
 
+
+
+<h1 align="center">
+<p>KEYWORD EXTRACTOR LLM :goat:</p>
+
+<p align="center">
+
+[![Downloads](https://pepy.tech/badge/keywordextractorllm)](https://pepy.tech/project/keywordextractorllm)
+<img alt="python" src="https://img.shields.io/badge/python-%3E%3D3.6-blue?logo=python">
+<img alt="torch" src="https://img.shields.io/badge/torch-%3E%3D2.3.0-orange?logo=torch">
+<a href="https://pypi.org/project/keywordextractorllm/">
+  <img alt="PyPI" src="https://img.shields.io/pypi/v/text-gen?color=%234285F4&label=release&logo=pypi&logoColor=%234285F4">
+</a>
+</p>
+</h1>
+<h2 align="center">
+<p>KEYWORD EXTRACTOR LLM</p>
+</h2>
+
+<p align="center">
 keyword_extract_LLM is a Python library designed to simplify the process of keyword extraction from a given text using pretrain LLM(large language model) via Huggingface, specifically tailored for the Hugging Face Transformers ecosystem. With the library, you can effortlessly extract relevant keywords from text, making it an invaluable tool for tasks like content analysis, and information retrieval.
+</p>
+
+
 
 ## Features
 - Utilizes Hugging Face Transformers pipeline: keyword_extract_LLM leverages the power of Hugging Face's state-of-the-art language models.
