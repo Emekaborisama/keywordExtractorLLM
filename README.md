@@ -30,7 +30,6 @@ LLM keyword extractor is a Python library designed to simplify the process of ke
 - Customization: You can customize various parameters for the extraction process to your specific needs.
 
 
-## Getting Started
 ### Installation
 You can install keyword_extract_LLM using pip:
 
